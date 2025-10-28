@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarikaSanjana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m developing my own on projects
+- 💞️ I’m developing my own projects
 - 📫 How to reach me garikasanjan@gmail.com
 
 
